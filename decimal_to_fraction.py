@@ -14,6 +14,9 @@
 
 import math
 
+
+#  TODO: Account for infinitely repeating decimals, such as 1/3
+
 num = float(input("Decimal: "))
 
 common_den = []
